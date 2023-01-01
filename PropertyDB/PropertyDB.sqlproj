@@ -71,4 +71,7 @@
   <ItemGroup>
     <RefactorLog Include="PropertyDB.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="PublishProfiles\PropertyDB.publish.xml" />
+  </ItemGroup>
 </Project>
