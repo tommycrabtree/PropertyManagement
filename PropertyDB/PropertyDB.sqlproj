@@ -67,6 +67,7 @@
     <Build Include="dbo\Tables\Property.sql" />
     <Build Include="dbo\StoredProcedures\spProperty_GetListOfProperties.sql" />
     <Build Include="dbo\StoredProcedures\spProperty_GetPropertyById.sql" />
+    <Build Include="dbo\Tables\PropertyType.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="PropertyDB.refactorlog" />
